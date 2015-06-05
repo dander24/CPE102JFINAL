@@ -1,0 +1,7 @@
+Click anywhere to herald the return of disco.
+
+That click will convert the nearby area to a dance floor, and change any miners on the floor to afro miners
+
+The disco ball follows empty miners, and will convert them to afro miners if adjacent
+
+Afro miners seek ore blobs, and will sacrice themselves to convert them to disco balls.
