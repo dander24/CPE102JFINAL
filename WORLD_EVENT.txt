@@ -5,3 +5,7 @@ That click will convert the nearby area to a dance floor, and change any miners 
 The disco ball follows empty miners, and will convert them to afro miners if adjacent
 
 Afro miners seek ore blobs, and will sacrice themselves to convert them to disco balls.
+
+WARNING
+REQUIRES MINIM
+CAN BE FOUND IN THE LIBRARY FOLDER

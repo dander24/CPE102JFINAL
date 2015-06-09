@@ -17,6 +17,11 @@ miner images/miner2.bmp 252 252 252 0
 miner images/miner3.bmp 252 252 252 0
 miner images/miner4.bmp 252 252 252 0
 miner images/miner5.bmp 252 252 252 0
+discominer images/aminer1.bmp 252 252 252 0
+discominer images/aminer2.bmp 252 252 252 0
+discominer images/aminer3.bmp 252 252 252 0
+discominer images/aminer4.bmp 252 252 252 0
+discominer images/aminer5.bmp 252 252 252 0
 obstacle images/obstacle.bmp
 ore images/ore.bmp 201 26 26 0
 quake images/quake1.bmp 255 255 255 0
@@ -27,4 +32,13 @@ quake images/quake5.bmp 255 255 255 0
 quake images/quake6.bmp 255 255 255 0
 rocks images/rock.bmp
 vein images/vein.bmp
+discoball images/disco1.png 
+discoball images/disco2.png 
+discoball images/disco3.png 
+discoball images/disco4.png 
+discoball images/disco5.png 
+discoball images/disco6.png 
+discoball images/disco7.png 
+discoball images/disco8.png 
+dancefloor images/dancefloor.bmp
 background_default images/none.bmp
